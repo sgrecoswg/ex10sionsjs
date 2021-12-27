@@ -1,6 +1,3 @@
-﻿import { ExportCSVButton } from "react-bootstrap-table";
-
-
 
 export function MathExtensions() {
 
